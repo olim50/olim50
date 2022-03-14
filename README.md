@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @olim50
-- 👀 I’m interested in web app 
-- 🌱 I’m currently learning HTML, CSS, JS, Angular, Vue, React, Python, Mongo DB, etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: olim50@yandex.ru
+- 👀 I'm interested in web applications
+- 🌱 I've learned and practiced HTML and CSS, I'm also starting to practice JS. Plus, I have a plan to spend time practicing React, Python, and Mongo DB.
+- 💞️ I invite you to cooperate...
+- 📫 How to contact me: olim50@yandex.ru
 
 <!---
-olim50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+olim50 is a ✨ special ✨ repository because its `README.md` (this file) shows up in my GitHub profile.
 --->
